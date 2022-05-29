@@ -1,0 +1,191 @@
+
+
+# getAllData
+
+PREFIX data: <https://skripsiKu.com/data#>
+      PREFIX id: <https://skripsiKu.com/skripsi#>
+      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+      SELECT ?title ?author ?NPM ?year ?angkatan ?guide1 ?guide2 ?examiner1 ?examiner2 ?examiner3
+      WHERE
+      {
+        ?id data:no ?no;
+            data:title ?title ;
+            data:author ?author ;
+            data:NPM ?NPM ;
+            data:hasYear ?nameYear ;
+            data:hasAngkatan ?nameAngkatan ;
+            data:hasGuide1 ?nameGuide1 ;
+            data:hasGuide2 ?nameGuide2 ;
+            data:hasExaminer1 ?nameExaminer1 ;
+            data:hasExaminer2 ?nameExaminer2 ;
+            data:hasExaminer3 ?nameExaminer3 .
+            
+            ?nameYear data:year ?year .
+            ?nameAngkatan data:year ?angkatan .
+            ?nameGuide1 data:lecturer ?guide1 .
+            ?nameGuide2 data:lecturer ?guide2 .
+            ?nameExaminer1 data:lecturer ?examiner1 .
+            ?nameExaminer2 data:lecturer ?examiner2 .
+            ?nameExaminer3 data:lecturer ?examiner3 .
+      }ORDER BY ASC(?no)
+
+
+# getData1
+
+PREFIX data: <https://skripsiKu.com/data#>
+      PREFIX id: <https://skripsiKu.com/skripsi#>
+      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+      SELECT ?title ?author ?NPM ?year ?angkatan ?guide1 ?guide2 ?examiner1 ?examiner2 ?examiner3
+      WHERE
+      {
+        ?id data:title ?title ;
+            data:author ?author ;
+            data:NPM ?NPM ;
+            data:hasYear ?nameYear ;
+            data:hasAngkatan ?nameAngkatan ;
+            data:hasGuide1 ?nameGuide1 ;
+            data:hasGuide2 ?nameGuide2 ;
+            data:hasExaminer1 ?nameExaminer1 ;
+            data:hasExaminer2 ?nameExaminer2 ;
+            data:hasExaminer3 ?nameExaminer3 .
+            
+            ?nameYear data:year ?year .
+            ?nameAngkatan data:year ?angkatan .
+            ?nameGuide1 data:lecturer ?guide1 .
+            ?nameGuide2 data:lecturer ?guide2 .
+            ?nameExaminer1 data:lecturer ?examiner1 .
+            ?nameExaminer2 data:lecturer ?examiner2 .
+            ?nameExaminer3 data:lecturer ?examiner3 .
+            
+            FILTER (
+              regex(?id, "${value.input}", "i") ||
+              regex(?title, "${value.input}", "i") ||
+              regex(?author, "${value.input}", "i") ||
+              regex(?NPM, "${value.input}", "i") ||
+              regex(?year, "${value.input}", "i") ||
+              regex(?angkatan, "${value.input}", "i") ||
+              regex(?guide1, "${value.input}", "i") ||
+              regex(?guide2, "${value.input}", "i") ||
+              regex(?guide1, "${value.input}", "i") ||
+              regex(?examiner1, "${value.input}", "i") ||
+              regex(?examiner2, "${value.input}", "i") ||
+              regex(?examiner3, "${value.input}", "i")
+            )
+      }
+
+# getRandomData
+
+PREFIX data: <https://skripsiKu.com/data#>
+      PREFIX id: <https://skripsiKu.com/skripsi#>
+      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+      SELECT ?title ?author ?NPM ?year ?angkatan ?guide1 ?guide2 ?examiner1 ?examiner2 ?examiner3
+      WHERE
+      {
+        ?id data:title ?title ;
+            data:author ?author ;
+            data:NPM ?NPM ;
+            data:hasYear ?nameYear ;
+            data:hasAngkatan ?nameAngkatan ;
+            data:hasGuide1 ?nameGuide1 ;
+            data:hasGuide2 ?nameGuide2 ;
+            data:hasExaminer1 ?nameExaminer1 ;
+            data:hasExaminer2 ?nameExaminer2 ;
+            data:hasExaminer3 ?nameExaminer3 .
+            
+            ?nameYear data:year ?year .
+            ?nameAngkatan data:year ?angkatan .
+            ?nameGuide1 data:lecturer ?guide1 .
+            ?nameGuide2 data:lecturer ?guide2 .
+            ?nameExaminer1 data:lecturer ?examiner1 .
+            ?nameExaminer2 data:lecturer ?examiner2 .
+            ?nameExaminer3 data:lecturer ?examiner3 .
+      }
+      ORDER BY RAND()
+      LIMIT 20
+
+# getFromTheNewest
+
+PREFIX data: <https://skripsiKu.com/data#>
+      PREFIX id: <https://skripsiKu.com/skripsi#>
+      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+      SELECT ?title ?author ?NPM ?year ?angkatan ?guide1 ?guide2 ?examiner1 ?examiner2 ?examiner3
+      WHERE
+      {
+        ?id data:no ?no;
+            data:title ?title ;
+            data:author ?author ;
+            data:NPM ?NPM ;
+            data:hasYear ?nameYear ;
+            data:hasAngkatan ?nameAngkatan ;
+            data:hasGuide1 ?nameGuide1 ;
+            data:hasGuide2 ?nameGuide2 ;
+            data:hasExaminer1 ?nameExaminer1 ;
+            data:hasExaminer2 ?nameExaminer2 ;
+            data:hasExaminer3 ?nameExaminer3 .
+            
+            ?nameYear data:year ?year .
+            ?nameAngkatan data:year ?angkatan .
+            ?nameGuide1 data:lecturer ?guide1 .
+            ?nameGuide2 data:lecturer ?guide2 .
+            ?nameExaminer1 data:lecturer ?examiner1 .
+            ?nameExaminer2 data:lecturer ?examiner2 .
+            ?nameExaminer3 data:lecturer ?examiner3 .
+
+      }
+      ORDER BY DESC(?no)
+
+# getData2
+
+PREFIX data: <https://skripsiKu.com/data#>
+      PREFIX id: <https://skripsiKu.com/skripsi#>
+      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+      SELECT ?no ?title ?author ?NPM ?year ?angkatan ?guide1 ?guide2 ?examiner1 ?examiner2 ?examiner3
+      WHERE
+      {
+        ?id data:no ?no ;
+            data:title ?title ;
+            data:author ?author ;
+            data:NPM ?NPM ;
+            data:hasYear ?nameYear ;
+            data:hasAngkatan ?nameAngkatan ;
+            data:hasGuide1 ?nameGuide1 ;
+            data:hasGuide2 ?nameGuide2 ;
+            data:hasExaminer1 ?nameExaminer1 ;
+            data:hasExaminer2 ?nameExaminer2 ;
+            data:hasExaminer3 ?nameExaminer3 .
+            
+            ?nameYear data:year ?year .
+            ?nameAngkatan data:year ?angkatan .
+            ?nameGuide1 data:lecturer ?guide1 .
+            ?nameGuide2 data:lecturer ?guide2 .
+            ?nameExaminer1 data:lecturer ?examiner1 .
+            ?nameExaminer2 data:lecturer ?examiner2 .
+            ?nameExaminer3 data:lecturer ?examiner3 .
+            
+            FILTER contains(lcase(str(?title)), lcase(str("${
+              value.title ? value.title : ""
+            }")))
+            FILTER contains(lcase(str(?author)), lcase(str("${
+              value.author ? value.author : ""
+            }")))
+            FILTER contains(lcase(str(?NPM)), lcase(str("${
+              value.NPM ? value.NPM : ""
+            }")))
+            FILTER contains(lcase(str(?year)), lcase(str("${
+              value.year ? value.year : ""
+            }")))
+            FILTER contains(lcase(str(?angkatan)), lcase(str("${
+              value.angkatan ? value.angkatan : ""
+            }")))
+            FILTER (
+              contains(lcase(str(?guide1)), lcase(str("${value.guide ? value.guide : ""}"))) ||
+              contains(lcase(str(?guide2)), lcase(str("${value.guide ? value.guide : ""}")))
+            )
+           
+            FILTER (
+              contains(lcase(str(?examiner1)), lcase(str("${value.examiner ? value.examiner : ""}"))) ||
+              contains(lcase(str(?examiner2)), lcase(str("${value.examiner ? value.examiner : ""}"))) ||
+              contains(lcase(str(?examiner3)), lcase(str("${value.examiner ? value.examiner : ""}")))
+            )      
+      }
+      ORDER BY ASC (?no)
