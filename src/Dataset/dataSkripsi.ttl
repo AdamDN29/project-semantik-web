@@ -2,355 +2,6 @@
 @prefix id: <https://skripsiKu.com/skripsi#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
-id:1 
-        data:no                 1;
-        data:title              "SISTEM INFORMASI PERSEDIAAN BARANG BERBASIS WEB DAN SISTEM MONITORING BERBASIS MOBILE PADA PERUSAHAAN DISTRIBUSI";
-        data:author             "Jordy Saragih";
-        data:NPM                "140810120001";
-        .
-
-id:2 
-        data:no                 2;
-        data:title              "IMPLEMENTASI SIMULASI WISATA SHARK CAGE DIVING DENGAN PERANGKAT VIRTUAL REALITY GOOGLE CARDBOARD MENGGUNAKAN GAME ENGINE UNITY 3D";
-        data:author             "Riva Farabi";
-        data:NPM                "140810120007";
-        .
-
-id:3 
-        data:no                 3;
-        data:title              "Penggunaan Aplikasi RapidMiner untuk Menganalisis Perilaku Pengguna Media Sosial Dalam menentukan Target Pemasaran Secara Efektif: Studi Kasus Media Sosial Instagram";
-        data:author             "Harits Muhammad";
-        data:NPM                "140810120015";
-        .
-
-id:4 
-        data:no                 4;
-        data:title              "Pemanfaatan Kartu Tanda Penduduk Elektronik sebagai Alternatif Otentikasi (Studi Kasus pada Sistem PAuS ID di Universitas Padjadjaran)";
-        data:author             "Faishal Wahiduddin";
-        data:NPM                "140810120024";
-        .
-
-id:5 
-        data:no                 5;
-        data:title              "Network Behavior Anomaly Detection (Studi Kasus di Gedung D PPBS Universitas Padjadjaran)";
-        data:author             "Billal Muhammad Hadian";
-        data:NPM                "140810120026";
-        .
-
-id:6 
-        data:no                 6;
-        data:title              "Aplikasi Digital Watermark untuk File Audio MP3 menggunakan Teknik Steganografi dengan Metode Phase Coding";
-        data:author             "Mohamad Raditya Putra";
-        data:NPM                "140810120023";
-        .
-
-id:7 
-        data:no                 7;
-        data:title              "ANALISIS PERBANDINGAN KINERJA METODE BINERISASI TERHADAP CITRA LONTAR SUNDA KUNO";
-        data:author             "Deisna Rahmaningtyas";
-        data:NPM                "140810120006";
-        .
-
-id:8 
-        data:no                 8;
-        data:title              "PENGEMBANGAN APLIKASI TEMPORAL DATA MINING PREDIKSI CURAH HUJAN BERBASIS PHP & MYSQL MENGGUNAKAN MODEL AUTOREGRESSIVE DI PROVINSI JAWA BARAT";
-        data:author             "Luqman Adibiarso";
-        data:NPM                "140810120020";
-        .
-
-id:9 
-        data:no                 9;
-        data:title              "ANALISA JARINGAN KOMPUTER UNTUK MENDAPATKAN PERILAKU PENGGUNA JARINGAN: Studi kasus gedung PPBS D Jatinangor";
-        data:author             "Izzan Lastryana O";
-        data:NPM                "Izzan Lastryana O";
-        .
-
-id:10 
-        data:no                 10;
-        data:title              "PROGRAM APLIKASI PENGENALAN PLAT NOMOR MOBIL MENGGUNAKAN TEMPLATE MATCHING PADA SISTEM INFORMASI PARKIR";
-        data:author             "Indah Maulidia T";
-        data:NPM                "140810120014";
-		.
-		
-id:11 
-        data:no                 11;
-        data:title              "IMPLEMENTASI PEMODELAN ONTOLOGI DAN PEMBANGUNAN WEB SEMANTIK PADA STUDI KASUS PENCARIAN BUKU DI PERPUSTAKAAN DIGITAL (INFORMATICS E-LIBRARY)";
-        data:author             "Benarivo Triadi P";
-        data:NPM                "140810120019";
-        .
-
-id:12 
-        data:no                 12;
-        data:title              "RANCANG BANGUN APLIKASI PENYISIPAN PESAN DI DALAM GAMBAR MENGGUNAKAN TEKNIK STEGANOGRAFI DENGAN METODE ENHANCE LSB";
-        data:author             "Muh Miftah Al Rasyid";
-        data:NPM                "140810120018";
-        .
-
-id:13 
-        data:no                 13;
-        data:title              "Implementasi Algoritma Spyware dalam Aplikasi Remote Access";
-        data:author             "Anas Tazcia Lestari";
-        data:NPM                "140810130021";
-        .
-
-id:14 
-        data:no                 14;
-        data:title              "PERHITUNGAN JUMLAH KENDARAAN DI JALAN TOL MENGGUNAKAN METODE IMAGE SUBTRACTING";
-        data:author             "Rahmatullah Arrizal P.";
-        data:NPM                "140810130008";
-        .
-
-id:15 
-        data:no                 15;
-        data:title              "Sistem Informasi Pemetaan Gedung PPBS D dengan Menggunakan Metode Indoor Geolocation Berbasis Android";
-        data:author             "Muhammad Iqbal";
-        data:NPM                "140810120005";
-        .
-
-id:16 
-        data:no                 16;
-        data:title              "Analisis dan Desain Jaringan Unpad (Jatinangor, Sumedang) untuk Memaksimalkan Rancangan Peletakan Access Point dan Router";
-        data:author             "Jansen Giovanni";
-        data:NPM                "140810120013";
-        .
-
-id:17 
-        data:no                 17;
-        data:title              "Pemanfaatan Augmented Reality Sebagai Sarana Pemebelajaran Sistem Gerak Tubuh Manusia";
-        data:author             "Amir Mujahiduddien";
-        data:NPM                "140810120008";
-        .
-
-id:18 
-        data:no                 18;
-        data:title              "Aplikasi Untuk Menganalisis Dan Mengklasifikasikan Jenis Serangan Pada Trafik Jaringan UNPAD Jatinangor Dengan Menggunakan Na";
-        data:author             "Ichsan Alfiansyah";
-        data:NPM                "140810120012";
-        .
-
-id:19 
-        data:no                 19;
-        data:title              "RANCANG BANGUN SISTEM PAKAR UNTUK MENDIAGNOSA GANGGUAN KECEMASAN SOSIAL DENGAN MENGGUNAKAN METODE CERTAINTY FACTOR BERBASIS WEB";
-        data:author             "Zahra Solihah";
-        data:NPM                "140810120027";
-        .
-
-id:20 
-        data:no                 20;
-        data:title              "Aplikasi Travelling Salesman Problem dengan Pendekatan Box Uncertainty dengan Metode Branch and Bound (Studi Kasus PT. Citra Van Titipan Kilat [Tiki])";
-        data:author             "Albertus Aditya Wisnu Whardana";
-        data:NPM                "140810130053";
-        .
-
-id:21 
-        data:no                 21;
-        data:title              "Analisis Filtering Email SPAM dengan Menggunakan Metode Naive Bayesian";
-        data:author             "Andrean Taufik";
-        data:NPM                "140810130041";
-        .
-
-id:22 
-        data:no                 22;
-        data:title              "Analisis Pengaruh Firewall Terhadap Sumber Daya Komputer Dalam Mencegah Serangan DoS";
-        data:author             "Fadel Muhammad P";
-        data:NPM                "140810130046";
-        .
-
-id:23 
-        data:no                 23;
-        data:title              "Implementasi Algoritma Kriptografi AES (Advance Encryption Standard) pada Aplikasi Messenger di Jaringan LAN";
-        data:author             "Rahadian Hilmy";
-        data:NPM                "140810130036";
-        .
-
-id:24 
-        data:no                 24;
-        data:title              "Membangun Aplikasi Monitoring IP CCTV Berbasis Android Smartphone untuk Menghitung Jumlah Pelanggaran Lajur Kendaraan Studi Kasus Universitas Padjadjaran";
-        data:author             "Rizky Maulana R";
-        data:NPM                "140810130045";
-        .
-
-id:25 
-        data:no                 25;
-        data:title              "PENGENALAN GESTUR TANGAN BERBASIS WARNA KULIT";
-        data:author             "Sopyan Mulyana";
-        data:NPM                "140810130006";
-        .
-
-id:26 
-        data:no                 26;
-        data:title              "Implementasi Algoritma K-Means Clustering Untuk Menentukan Prioritas Pembangunan Pendidikan Di Provinsi Jawa Barat";
-        data:author             "Wahyudin Buca Kalauw";
-        data:NPM                "140810130035";
-        .
-
-id:27
-        data:no                 27;
-        data:title              "Pengembangan Aplikasi Mobile Manajemen Aset dengan QR-Code";
-        data:author             "Mochamad Edwin Lokyta";
-        data:NPM                "140810130039";
-        .
-
-id:28 
-        data:no                 28;
-        data:title              "Analisis Kelayakan Sistem Absensi Berbasis Mobile Pada Program Studi S1 Teknik Informatika Unpad Dengan Menggunakan Metode Kelayakan TELOS";
-        data:author             "Yusuf Septiananda";
-        data:NPM                "140810130022";
-        .
-
-id:29 
-        data:no                 29;
-        data:title              "Implementasi Facial Expression Recognition menggunakan Metode Euclidean Distance sebagai Alat untuk Mengenali Kondisi Emosi Seseorang";
-        data:author             "Muhammad Fadly Rahman";
-        data:NPM                "140810130016";
-        .
-
-id:30 
-        data:no                 30;
-        data:title              "Manajemen Traffic Jaringan Internet Berbasis Web Dengan Menggunakan Protokol SNMP (Studi Kasus di Lab. SIM Departemen Ilmu Komputer Universitas Padjadjaran)";
-        data:author             "Febrian Suhendra";
-        data:NPM                "140810130012";
-        .
-
-id:31 
-        data:no                 31;
-        data:title              "ANALISIS SENTIMEN PADA TWITTER MENGGUNAKAN TEXT MINING DENGAN METODE NA";
-        data:author             "Hilga Dwiana Hardani";
-        data:NPM                "140810130023";
-        .
-
-id:32 
-        data:no                 32;
-        data:title              "SISTEM INFORMASI DATA SIDANG TILANG PADA PENGADILAN NEGERI INDRAMAYU BERBASIS WEBSITE";
-        data:author             "Anggie Audina Ikhwanudin";
-        data:NPM                "140810130019";
-        .
-
-id:33 
-        data:no                 33;
-        data:title              "Pengembangan Sistem Pendukung Keputusan Pemilihan Kelompok Tani Penerima Bantuan Pertanian Menggunakan Metode Analitycal Hierarchy Process Berbasis Web";
-        data:author             "Agung Kurniati";
-        data:NPM                "140810130027";
-        .
-
-id:34 
-        data:no                 34;
-        data:title              "Penerapan K-Optimal Pada Metode Klasifikasi Menggunakan Algoritma K-Nearest Neighbor (KNN) Untuk Prediksi Masa Studi Mahasiswa Di Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Padjadjaran";
-        data:author             "Hilmi Wijaksana Wahyudi";
-        data:NPM                "140810130060";
-        .
-
-id:35 
-        data:no                 35;
-        data:title              "Implementasi Algoritma Kriptografi RSA pada aplikasi chatting Berbasis Socket Programming dengan menggunakan bahasa C#";
-        data:author             "Yoko Suryadi";
-        data:NPM                "140810130043";
-        .
-
-id:36
-        data:no                 36;
-        data:title              "PENGENALAN WAJAH BERBASIS ANDROID MENGGUNAKAN METODE PRINCIPAL COMPONENT ANALYSIS";
-        data:author             "M Fathurrahman";
-        data:NPM                "140810130049";
-        .
-id:37 
-        data:no                 37;
-        data:title              "PENERAPAN METODE FUZZY ANALYTICAL HIERARCY PROCESS (F-AHP) PADA SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN PENGAWAS SEKOLAH TERBAIK DI KABUPATEN TANJUNG JABUNG TIMUR PROVINSI JAMBI";
-        data:author             "Rezky Pratomo";
-        data:NPM                "140810130013";
-        .
-
-id:38 
-        data:no                 38;
-        data:title              "Pengujian Keamanan Wireless Access Point Dengan Protokol Keamanan WEP, WPA dan WPA2 Menggunakan Aircrack-ng Pada Sistem Operasi Kali Linux";
-        data:author             "Raynaldo Kristiado Sola Gratia";
-        data:NPM                "140810130051";
-        .
-
-id:39 
-        data:no                 39;
-        data:title              "Sistem Pendukung Keputusan Investasi Properti Berbasis Web Menggunakan Metode Analytical Hierarchy Process";
-        data:author             "Alvin Niza Aulia";
-        data:NPM                "140810130047";
-        .
-
-id:40 
-        data:no                 40;
-        data:title              "Perbandingan Haar Cascade Classification Dan Lbp Cascade Classification Sebagai Hand Gesture Recognition Untuk Media Interaksi Dalam Aplikasi Game Virtual Reality";
-        data:author             "M Iqbal Pandailing W";
-        data:NPM                "140810130056";
-        .
-
-id:41 
-        data:no                 41;
-        data:title              "Data Mining untuk Clustering Ethnoinformatika Penamaan Kampung di Kabupaten Bandung";
-        data:author             "Anne Devia";
-        data:NPM                "140810130003";
-        .
-
-id:42 
-        data:no                 42;
-        data:title              "Naa.ve Bayes Classifier Untuk Kategori Berita Bahasa Indonesia Berbasis Web";
-        data:author             "Carina Sunny Budiono Putri";
-        data:NPM                "140810130001";
-        .
-
-id:43 
-        data:no                 43;
-        data:title              "Penerapan Data Mining dengan Teknik Semi-supervised Clustering by Seeding untuk Mengelompokkan Posisi Pemain Sepakbola";
-        data:author             "Fath Imtiaz";
-        data:NPM                "140810120009";
-        .
-
-id:44 
-        data:no                 44;
-        data:title              "APLIKASI SISTEM PENDUKUNG KEPUTUSAN DALAM MENENTUKAN KENAIKAN PANGKAT DAN PROMOSI JABATAN STRUKTURAL DI KABUPATEN GARUT DENGAN MENGGUNAKAN METODE TOPSIS";
-        data:author             "Rizki Fitrah Mutaqin";
-        data:NPM                "140810130007";
-        .
-
-id:45 
-        data:no                 45;
-        data:title              "Penerapan Data Mining dengan Metode Clustering untuk Sistem Informasi Ethnoinformatika Penamaan Dusun di Kabupaten Ciamis";
-        data:author             "Asep Sudrajat";
-        data:NPM                "140810130024";
-        .
-
-id:46 
-        data:no                 46;
-        data:title              "Aplikasi Sistem Perpustakaan di SMA Darul Falah Cihampelas Berbasis Android";
-        data:author             "Henry Aulia Rahman";
-        data:NPM                "140810130005";
-        .
-
-id:47
-        data:no                 47;
-        data:title              "PEMILIHAN INTERNET SERVICE PROVIDER TERBAIK PADA PT. PLN (PERSERO) APJ CIREBON DENGAN METODE FUZZY ANALYTICAL HIERARCHY PROCESS";
-        data:author             "Edwin Ginanjar Sonjaya";
-        data:NPM                "140810130014";
-        .
-
-id:48 
-        data:no                 48;
-        data:title              "Penerapan Data Mining untuk Clustering Etnoinformatika Penamaan Kampung di Kabupaten Tasikmalaya";
-        data:author             "Ai Siti Sobariah";
-        data:NPM                "140810130002";
-        .
-
-id:49 
-        data:no                 49;
-        data:title              "Implementasi Data Mining untuk Clustering Etnoinformatika Penamaan Kampung di Kabupaten Garut";
-        data:author             "Linda Angela Putri";
-        data:NPM                "140810130004";
-        .
-
-id:50 
-        data:no                 50;
-        data:title              "SISTEM PENDUKUNG KEPUTUSAN DALAM MENENTUKAN ATLET TAEKWONDO UNIVERSITAS PADJADJARAN UNTUK MENGIKUTI KEJUARAAN DENGAN METODE ANALITYCAL HIERARCHY PROCESS (AHP)";
-        data:author             "Tiara Rizki Maharani";
-        data:NPM                "140810130052";
-        .
-
 #Lecturer
 id:L1 data:lecturer "Prof. Dr. Atje Setiawan A.,MS, M.Kom." .
 id:L2 data:lecturer "Dr. Setiawan Hadi, M.Sc.CS." .
@@ -368,309 +19,6 @@ id:L13 data:lecturer "Aditya Pradana, S.T., M.Eng." .
 id:L14 data:lecturer "Mira Suryani, S.Pd., M.Kom." .
 id:L15 data:lecturer "Dr. Afrida Helen, MT." .
 
-
-
-#Guide & Examiner
-id:1 data:hasGuide1 id:L1 .
-id:1 data:hasGuide2 id:L4 .
-id:1 data:hasExaminer1 id:L2 .
-id:1 data:hasExaminer2 id:L5 .
-id:1 data:hasExaminer3 id:L8 .
-
-id:2 data:hasGuide1 id:L3 .
-id:2 data:hasGuide2 id:L9 .
-id:2 data:hasExaminer1 id:L10 .
-id:2 data:hasExaminer2 id:L7 .
-id:2 data:hasExaminer3 id:L8 .
-
-id:3 data:hasGuide1 id:L7 .
-id:3 data:hasGuide2 id:L11 .
-id:3 data:hasExaminer1 id:L1 .
-id:3 data:hasExaminer2 id:L2 .
-id:3 data:hasExaminer3 id:L9 .
-
-id:4 data:hasGuide1 id:L2 .
-id:4 data:hasGuide2 id:L10 .
-id:4 data:hasExaminer1 id:L4 .
-id:4 data:hasExaminer2 id:L11 .
-id:4 data:hasExaminer3 id:L3 .
-
-id:5 data:hasGuide1 id:L9 .
-id:5 data:hasGuide2 id:L10.
-id:5 data:hasExaminer1 id:L4 .
-id:5 data:hasExaminer2 id:L11 .
-id:5 data:hasExaminer3 id:L8 .
-
-id:6 data:hasGuide1 id:L5 .
-id:6 data:hasGuide2 id:L11 .
-id:6 data:hasExaminer1 id:L2 .
-id:6 data:hasExaminer2 id:L10 .
-id:6 data:hasExaminer3 id:L8 .
-
-id:7 data:hasGuide1 id:L2 .
-id:7 data:hasGuide2 id:L8 .
-id:7 data:hasExaminer1 id:L4 .
-id:7 data:hasExaminer2 id:L5 .
-id:7 data:hasExaminer3 id:L7 .
-
-id:8 data:hasGuide1 id:L1 .
-id:8 data:hasGuide2 id:L4 .
-id:8 data:hasExaminer1 id:L2 .
-id:8 data:hasExaminer2 id:L5 .
-id:8 data:hasExaminer3 id:L10 .
-
-id:9 data:hasGuide1 id:L6 .
-id:9 data:hasGuide2 id:L11 .
-id:9 data:hasExaminer1 id:L2 .
-id:9 data:hasExaminer2 id:L7 .
-id:9 data:hasExaminer3 id:L5 .
-
-id:10 data:hasGuide1 id:L7 .
-id:10 data:hasGuide2 id:L5 .
-id:10 data:hasExaminer1 id:L4 .
-id:10 data:hasExaminer2 id:L6 .
-id:10 data:hasExaminer3 id:L11 .
-
-id:11 data:hasGuide1 id:L4 .
-id:11 data:hasGuide2 id:L10 .
-id:11 data:hasExaminer1 id:L2 .
-id:11 data:hasExaminer2 id:L6 .
-id:11 data:hasExaminer3 id:L9 .
-
-id:12 data:hasGuide1 id:L6 .
-id:12 data:hasGuide2 id:L2 .
-id:12 data:hasExaminer1 id:L4 .
-id:12 data:hasExaminer2 id:L10 .
-id:12 data:hasExaminer3 id:L5 .
-
-id:13 data:hasGuide1 id:L5 .
-id:13 data:hasGuide2 id:L10 .
-id:13 data:hasExaminer1 id:L4 .
-id:13 data:hasExaminer2 id:L6 .
-id:13 data:hasExaminer3 id:L3 .
-
-id:14 data:hasGuide1 id:L2 .
-id:14 data:hasGuide2 id:L7 .
-id:14 data:hasExaminer1 id:L5 .
-id:14 data:hasExaminer2 id:L10 .
-id:14 data:hasExaminer3 id:L4 .
-
-id:15 data:hasGuide1 id:L2 .
-id:15 data:hasGuide2 id:L8 .
-id:15 data:hasExaminer1 id:L4 .
-id:15 data:hasExaminer2 id:L7 .
-id:15 data:hasExaminer3 id:L6 .
-
-id:16 data:hasGuide1 id:L8 .
-id:16 data:hasGuide2 id:L10 .
-id:16 data:hasExaminer1 id:L2 .
-id:16 data:hasExaminer2 id:L5 .
-id:16 data:hasExaminer3 id:L3 .
-
-id:17 data:hasGuide1 id:L5 .
-id:17 data:hasGuide2 id:L3 .
-id:17 data:hasExaminer1 id:L2 .
-id:17 data:hasExaminer2 id:L7 .
-id:17 data:hasExaminer3 id:L10 .
-
-id:18 data:hasGuide1 id:L8 .
-id:18 data:hasGuide2 id:L7 .
-id:18 data:hasExaminer1 id:L4 .
-id:18 data:hasExaminer2 id:L9 .
-id:18 data:hasExaminer3 id:L6 .
-
-id:19 data:hasGuide1 id:L4 .
-id:19 data:hasGuide2 id:L9 .
-id:19 data:hasExaminer1 id:L2 .
-id:19 data:hasExaminer2 id:L7 .
-id:19 data:hasExaminer3 id:L11 .
-
-id:20 data:hasGuide1 id:L1 .
-id:20 data:hasGuide2 id:L4 .
-id:20 data:hasExaminer1 id:L2 .
-id:20 data:hasExaminer2 id:L6 .
-id:20 data:hasExaminer3 id:L11 .
-
-id:21 data:hasGuide1 id:L4 .
-id:21 data:hasGuide2 id:L11 .
-id:21 data:hasExaminer1 id:L2 .
-id:21 data:hasExaminer2 id:L1 .
-id:21 data:hasExaminer3 id:L6 .
-
-id:22 data:hasGuide1 id:L11 .
-id:22 data:hasGuide2 id:L6 .
-id:22 data:hasExaminer1 id:L5 .
-id:22 data:hasExaminer2 id:L2 .
-id:22 data:hasExaminer3 id:L3 .
-
-id:23 data:hasGuide1 id:L3 .
-id:23 data:hasGuide2 id:L6 .
-id:23 data:hasExaminer1 id:L4 .
-id:23 data:hasExaminer2 id:L5 .
-id:23 data:hasExaminer3 id:L11 .
-
-id:24 data:hasGuide1 id:L11 .
-id:24 data:hasGuide2 id:L5 .
-id:24 data:hasExaminer1 id:L1 .
-id:24 data:hasExaminer2 id:L4 .
-id:24 data:hasExaminer3 id:L3 .
-
-id:25 data:hasGuide1 id:L2 .
-id:25 data:hasGuide2 id:L11 .
-id:25 data:hasExaminer1 id:L4 .
-id:25 data:hasExaminer2 id:L6 .
-id:25 data:hasExaminer3 id:L9 .
-
-id:26 data:hasGuide1 id:L4 .
-id:26 data:hasGuide2 id:L6 .
-id:26 data:hasExaminer1 id:L2 .
-id:26 data:hasExaminer2 id:L11 .
-id:26 data:hasExaminer3 id:L9 .
-
-id:27 data:hasGuide1 id:L6 .
-id:27 data:hasGuide2 id:L9 .
-id:27 data:hasExaminer1 id:L2 .
-id:27 data:hasExaminer2 id:L4 .
-id:27 data:hasExaminer3 id:L11 .
-
-id:28 data:hasGuide1 id:L9 .
-id:28 data:hasGuide2 id:L6 .
-id:28 data:hasExaminer1 id:L4 .
-id:28 data:hasExaminer2 id:L2 .
-id:28 data:hasExaminer3 id:L1 .
-
-id:29 data:hasGuide1 id:L2 .
-id:29 data:hasGuide2 id:L3 .
-id:29 data:hasExaminer1 id:L6 .
-id:29 data:hasExaminer2 id:L9 .
-id:29 data:hasExaminer3 id:L7 .
-
-id:30 data:hasGuide1 id:L3 .
-id:30 data:hasGuide2 id:L5 .
-id:30 data:hasExaminer1 id:L4 .
-id:30 data:hasExaminer2 id:L2 .
-id:30 data:hasExaminer3 id:L7 .
-
-id:31 data:hasGuide1 id:L2 .
-id:31 data:hasGuide2 id:L9 .
-id:31 data:hasExaminer1 id:L1 .
-id:31 data:hasExaminer2 id:L3 .
-id:31 data:hasExaminer3 id:L5 .
-
-id:32 data:hasGuide1 id:L5 .
-id:32 data:hasGuide2 id:L3 .
-id:32 data:hasExaminer1 id:L2 .
-id:32 data:hasExaminer2 id:L6 .
-id:32 data:hasExaminer3 id:L9 .
-
-id:33 data:hasGuide1 id:L1 .
-id:33 data:hasGuide2 id:L7 .
-id:33 data:hasExaminer1 id:L4 .
-id:33 data:hasExaminer2 id:L3 .
-id:33 data:hasExaminer3 id:L5 .
-
-id:34 data:hasGuide1 id:L2 .
-id:34 data:hasGuide2 id:L9 .
-id:34 data:hasExaminer1 id:L5 .
-id:34 data:hasExaminer2 id:L10 .
-id:34 data:hasExaminer3 id:L4 .
-
-id:35 data:hasGuide1 id:L4 .
-id:35 data:hasGuide2 id:L7 .
-id:35 data:hasExaminer1 id:L1 .
-id:35 data:hasExaminer2 id:L11 .
-id:35 data:hasExaminer3 id:L9 .
-
-id:36 data:hasGuide1 id:L2 .
-id:36 data:hasGuide2 id:L11 .
-id:36 data:hasExaminer1 id:L10 .
-id:36 data:hasExaminer2 id:L1 .
-id:36 data:hasExaminer3 id:L3 .
-
-id:37 data:hasGuide1 id:L1 .
-id:37 data:hasGuide2 id:L7 .
-id:37 data:hasExaminer1 id:L2 .
-id:37 data:hasExaminer2 id:L11 .
-id:37 data:hasExaminer3 id:L4 .
-
-id:38 data:hasGuide1 id:L10 .
-id:38 data:hasGuide2 id:L7 .
-id:38 data:hasExaminer1 id:L2 .
-id:38 data:hasExaminer2 id:L11 .
-id:38 data:hasExaminer3 id:L4 .
-
-id:39 data:hasGuide1 id:L1 .
-id:39 data:hasGuide2 id:L11 .
-id:39 data:hasExaminer1 id:L4 .
-id:39 data:hasExaminer2 id:L10 .
-id:39 data:hasExaminer3 id:L2 .
-
-id:40 data:hasGuide1 id:L5 .
-id:40 data:hasGuide2 id:L9 .
-id:40 data:hasExaminer1 id:L2 .
-id:40 data:hasExaminer2 id:L7 .
-id:40 data:hasExaminer3 id:L3 .
-
-id:41 data:hasGuide1 id:L1 .
-id:41 data:hasGuide2 id:L4 .
-id:41 data:hasExaminer1 id:L9 .
-id:41 data:hasExaminer2 id:L5 .
-id:41 data:hasExaminer3 id:L3 .
-
-id:42 data:hasGuide1 id:L1 .
-id:42 data:hasGuide2 id:L10 .
-id:42 data:hasExaminer1 id:L4 .
-id:42 data:hasExaminer2 id:L7 .
-id:42 data:hasExaminer3 id:L9 .
-
-id:43 data:hasGuide1 id:L1 .
-id:43 data:hasGuide2 id:L3 .
-id:43 data:hasExaminer1 id:L4 .
-id:43 data:hasExaminer2 id:L9 .
-id:43 data:hasExaminer3 id:L7 .
-
-id:44 data:hasGuide1 id:L2 .
-id:44 data:hasGuide2 id:L6 .
-id:44 data:hasExaminer1 id:L1 .
-id:44 data:hasExaminer2 id:L4 .
-id:44 data:hasExaminer3 id:L9 .
-
-id:45 data:hasGuide1 id:L1 .
-id:45 data:hasGuide2 id:L7 .
-id:45 data:hasExaminer1 id:L2 .
-id:45 data:hasExaminer2 id:L3 .
-id:45 data:hasExaminer3 id:L4 .
-
-id:46 data:hasGuide1 id:L1 .
-id:46 data:hasGuide2 id:L6 .
-id:46 data:hasExaminer1 id:L2 .
-id:46 data:hasExaminer2 id:L9 .
-id:46 data:hasExaminer3 id:L7 .
-
-id:47 data:hasGuide1 id:L3 .
-id:47 data:hasGuide2 id:L9 .
-id:47 data:hasExaminer1 id:L1 .
-id:47 data:hasExaminer2 id:L6 .
-id:47 data:hasExaminer3 id:L4 .
-
-id:48 data:hasGuide1 id:L1 .
-id:48 data:hasGuide2 id:L7 .
-id:48 data:hasExaminer1 id:L2 .
-id:48 data:hasExaminer2 id:L3 .
-id:48 data:hasExaminer3 id:L6 .
-
-id:49 data:hasGuide1 id:L1 .
-id:49 data:hasGuide2 id:L4 .
-id:49 data:hasExaminer1 id:L7 .
-id:49 data:hasExaminer2 id:L3 .
-id:49 data:hasExaminer3 id:L6 .
-
-id:50 data:hasGuide1 id:L1 .
-id:50 data:hasGuide2 id:L10 .
-id:50 data:hasExaminer1 id:L2 .
-id:50 data:hasExaminer2 id:L6 .
-id:50 data:hasExaminer3 id:L5 .
-
 #Year 
 id:Y1 data:year "2012" .
 id:Y2 data:year "2013" .
@@ -684,153 +32,1356 @@ id:Y9 data:year "2020" .
 id:Y10 data:year "2021" .
 id:Y11 data:year "2022" .
 
-#Tahun & Angkatan
-id:1 data:hasYear id:Y5 .
-id:1 data:hasAngkatan id:Y1 .
+# Data Skripsi
 
-id:2 data:hasYear id:Y5 .
-id:2 data:hasAngkatan id:Y1 .
+id:1 
+        data:no                 1;
+        data:title              "SISTEM INFORMASI PERSEDIAAN BARANG BERBASIS WEB DAN SISTEM MONITORING BERBASIS MOBILE PADA PERUSAHAAN DISTRIBUSI";
+        data:author             "Jordy Saragih";
+        data:NPM                "140810120001";
+        data:hasGuide1 id:L1;
+        data:hasGuide2 id:L4;
+        data:hasExaminer1 id:L2;
+        data:hasExaminer2 id:L5;
+        data:hasExaminer3 id:L8;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:3 data:hasYear id:Y5 .
-id:3 data:hasAngkatan id:Y1 .
+id:2 
+        data:no                 2;
+        data:title              "IMPLEMENTASI SIMULASI WISATA SHARK CAGE DIVING DENGAN PERANGKAT VIRTUAL REALITY GOOGLE CARDBOARD MENGGUNAKAN GAME ENGINE UNITY 3D";
+        data:author             "Riva Farabi";
+        data:NPM                "140810120007";
+        data:hasGuide1 id:L3 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L10 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L8 ;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:4 data:hasYear id:Y5 .
-id:4 data:hasAngkatan id:Y1 .
+id:3 
+        data:no                 3;
+        data:title              "Penggunaan Aplikasi RapidMiner untuk Menganalisis Perilaku Pengguna Media Sosial Dalam menentukan Target Pemasaran Secara Efektif: Studi Kasus Media Sosial Instagram";
+        data:author             "Harits Muhammad";
+        data:NPM                "140810120015";
+        data:hasGuide1 id:L7 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L2 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:5 data:hasYear id:Y5 .
-id:5 data:hasAngkatan id:Y1 .
+id:4 
+        data:no                 4;
+        data:title              "Pemanfaatan Kartu Tanda Penduduk Elektronik sebagai Alternatif Otentikasi (Studi Kasus pada Sistem PAuS ID di Universitas Padjadjaran)";
+        data:author             "Faishal Wahiduddin";
+        data:NPM                "140810120024";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:6 data:hasYear id:Y5 .
-id:6 data:hasAngkatan id:Y1 .
+id:5 
+        data:no                 5;
+        data:title              "Network Behavior Anomaly Detection (Studi Kasus di Gedung D PPBS Universitas Padjadjaran)";
+        data:author             "Billal Muhammad Hadian";
+        data:NPM                "140810120026";
+        data:hasGuide1 id:L9 ;
+        data:hasGuide2 id:L10;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L8 ;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:7 data:hasYear id:Y5 .
-id:7 data:hasAngkatan id:Y1 .
+id:6 
+        data:no                 6;
+        data:title              "Aplikasi Digital Watermark untuk File Audio MP3 menggunakan Teknik Steganografi dengan Metode Phase Coding";
+        data:author             "Mohamad Raditya Putra";
+        data:NPM                "140810120023";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L11 ; 
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L8 ;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:8 data:hasYear id:Y5 .
-id:8 data:hasAngkatan id:Y1 .
+id:7 
+        data:no                 7;
+        data:title              "ANALISIS PERBANDINGAN KINERJA METODE BINERISASI TERHADAP CITRA LONTAR SUNDA KUNO";
+        data:author             "Deisna Rahmaningtyas";
+        data:NPM                "140810120006";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L8 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L5 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:9 data:hasYear id:Y5 .
-id:9 data:hasAngkatan id:Y1 .
+id:8 
+        data:no                 8;
+        data:title              "PENGEMBANGAN APLIKASI TEMPORAL DATA MINING PREDIKSI CURAH HUJAN BERBASIS PHP & MYSQL MENGGUNAKAN MODEL AUTOREGRESSIVE DI PROVINSI JAWA BARAT";
+        data:author             "Luqman Adibiarso";
+        data:NPM                "140810120020";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L4 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L5 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:10 data:hasYear id:Y5 .
-id:10 data:hasAngkatan id:Y1 .
+id:9 
+        data:no                 9;
+        data:title              "ANALISA JARINGAN KOMPUTER UNTUK MENDAPATKAN PERILAKU PENGGUNA JARINGAN: Studi kasus gedung PPBS D Jatinangor";
+        data:author             "Izzan Lastryana O";
+        data:NPM                "Izzan Lastryana O";
+        data:hasGuide1 id:L6 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L2 ;   
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L5 ;    
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:11 data:hasYear id:Y6 .
-id:11 data:hasAngkatan id:Y1 .
+id:10 
+        data:no                 10;
+        data:title              "PROGRAM APLIKASI PENGENALAN PLAT NOMOR MOBIL MENGGUNAKAN TEMPLATE MATCHING PADA SISTEM INFORMASI PARKIR";
+        data:author             "Indah Maulidia T";
+        data:NPM                "140810120014";
+	data:hasGuide1 id:L7 ;
+        data:hasGuide2 id:L5 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y5 ;
+        data:hasAngkatan id:Y1 ;
+        .
+		
+id:11 
+        data:no                 11;
+        data:title              "IMPLEMENTASI PEMODELAN ONTOLOGI DAN PEMBANGUNAN WEB SEMANTIK PADA STUDI KASUS PENCARIAN BUKU DI PERPUSTAKAAN DIGITAL (INFORMATICS E-LIBRARY)";
+        data:author             "Benarivo Triadi P";
+        data:NPM                "140810120019";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:12 data:hasYear id:Y6 .
-id:12 data:hasAngkatan id:Y1 .
+id:12 
+        data:no                 12;
+        data:title              "RANCANG BANGUN APLIKASI PENYISIPAN PESAN DI DALAM GAMBAR MENGGUNAKAN TEKNIK STEGANOGRAFI DENGAN METODE ENHANCE LSB";
+        data:author             "Muh Miftah Al Rasyid";
+        data:NPM                "140810120018";
+        data:hasGuide1 id:L6 ;
+        data:hasGuide2 id:L2 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:13 data:hasYear id:Y6 .
-id:13 data:hasAngkatan id:Y2 .
+id:13 
+        data:no                 13;
+        data:title              "Implementasi Algoritma Spyware dalam Aplikasi Remote Access";
+        data:author             "Anas Tazcia Lestari";
+        data:NPM                "140810130021";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:14 data:hasYear id:Y6 .
-id:14 data:hasAngkatan id:Y2 .
+id:14 
+        data:no                 14;
+        data:title              "PERHITUNGAN JUMLAH KENDARAAN DI JALAN TOL MENGGUNAKAN METODE IMAGE SUBTRACTING";
+        data:author             "Rahmatullah Arrizal P.";
+        data:NPM                "140810130008";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L4 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:15 data:hasYear id:Y6 .
-id:15 data:hasAngkatan id:Y1 .
+id:15 
+        data:no                 15;
+        data:title              "Sistem Informasi Pemetaan Gedung PPBS D dengan Menggunakan Metode Indoor Geolocation Berbasis Android";
+        data:author             "Muhammad Iqbal";
+        data:NPM                "140810120005";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L8 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:16 data:hasYear id:Y6 .
-id:16 data:hasAngkatan id:Y1 .
+id:16 
+        data:no                 16;
+        data:title              "Analisis dan Desain Jaringan Unpad (Jatinangor, Sumedang) untuk Memaksimalkan Rancangan Peletakan Access Point dan Router";
+        data:author             "Jansen Giovanni";
+        data:NPM                "140810120013";
+        data:hasGuide1 id:L8 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L5 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:17 data:hasYear id:Y6 .
-id:17 data:hasAngkatan id:Y1 .
+id:17 
+        data:no                 17;
+        data:title              "Pemanfaatan Augmented Reality Sebagai Sarana Pemebelajaran Sistem Gerak Tubuh Manusia";
+        data:author             "Amir Mujahiduddien";
+        data:NPM                "140810120008";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:18 data:hasYear id:Y6 .
-id:18 data:hasAngkatan id:Y1 .
+id:18 
+        data:no                 18;
+        data:title              "Aplikasi Untuk Menganalisis Dan Mengklasifikasikan Jenis Serangan Pada Trafik Jaringan UNPAD Jatinangor Dengan Menggunakan Na";
+        data:author             "Ichsan Alfiansyah";
+        data:NPM                "140810120012";
+        data:hasGuide1 id:L8 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L9 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:19 data:hasYear id:Y6 .
-id:19 data:hasAngkatan id:Y1 .
+id:19 
+        data:no                 19;
+        data:title              "RANCANG BANGUN SISTEM PAKAR UNTUK MENDIAGNOSA GANGGUAN KECEMASAN SOSIAL DENGAN MENGGUNAKAN METODE CERTAINTY FACTOR BERBASIS WEB";
+        data:author             "Zahra Solihah";
+        data:NPM                "140810120027";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:20 data:hasYear id:Y6 .
-id:20 data:hasAngkatan id:Y2 .
+id:20 
+        data:no                 20;
+        data:title              "Aplikasi Travelling Salesman Problem dengan Pendekatan Box Uncertainty dengan Metode Branch and Bound (Studi Kasus PT. Citra Van Titipan Kilat [Tiki])";
+        data:author             "Albertus Aditya Wisnu Whardana";
+        data:NPM                "140810130053";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L4 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:21 data:hasYear id:Y6 .
-id:21 data:hasAngkatan id:Y2 .
+id:21 
+        data:no                 21;
+        data:title              "Analisis Filtering Email SPAM dengan Menggunakan Metode Naive Bayesian";
+        data:author             "Andrean Taufik";
+        data:NPM                "140810130041";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L1 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:22 data:hasYear id:Y6 .
-id:22 data:hasAngkatan id:Y2 .
+id:22 
+        data:no                 22;
+        data:title              "Analisis Pengaruh Firewall Terhadap Sumber Daya Komputer Dalam Mencegah Serangan DoS";
+        data:author             "Fadel Muhammad P";
+        data:NPM                "140810130046";
+        data:hasGuide1 id:L11 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L2 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:23 data:hasYear id:Y6 .
-id:23 data:hasAngkatan id:Y2 .
+id:23 
+        data:no                 23;
+        data:title              "Implementasi Algoritma Kriptografi AES (Advance Encryption Standard) pada Aplikasi Messenger di Jaringan LAN";
+        data:author             "Rahadian Hilmy";
+        data:NPM                "140810130036";
+        data:hasGuide1 id:L3 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L5 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:24 data:hasYear id:Y6 .
-id:24 data:hasAngkatan id:Y2 .
+id:24 
+        data:no                 24;
+        data:title              "Membangun Aplikasi Monitoring IP CCTV Berbasis Android Smartphone untuk Menghitung Jumlah Pelanggaran Lajur Kendaraan Studi Kasus Universitas Padjadjaran";
+        data:author             "Rizky Maulana R";
+        data:NPM                "140810130045";
+        data:hasGuide1 id:L11 ;
+        data:hasGuide2 id:L5 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L4 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:25 data:hasYear id:Y6 .
-id:25 data:hasAngkatan id:Y2 .
+id:25 
+        data:no                 25;
+        data:title              "PENGENALAN GESTUR TANGAN BERBASIS WARNA KULIT";
+        data:author             "Sopyan Mulyana";
+        data:NPM                "140810130006";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:26 data:hasYear id:Y6 .
-id:26 data:hasAngkatan id:Y2 .
+id:26 
+        data:no                 26;
+        data:title              "Implementasi Algoritma K-Means Clustering Untuk Menentukan Prioritas Pembangunan Pendidikan Di Provinsi Jawa Barat";
+        data:author             "Wahyudin Buca Kalauw";
+        data:NPM                "140810130035";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:27 data:hasYear id:Y6 .
-id:27 data:hasAngkatan id:Y2 .
+id:27
+        data:no                 27;
+        data:title              "Pengembangan Aplikasi Mobile Manajemen Aset dengan QR-Code";
+        data:author             "Mochamad Edwin Lokyta";
+        data:NPM                "140810130039";
+        data:hasGuide1 id:L6 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L4 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:28 data:hasYear id:Y6 .
-id:28 data:hasAngkatan id:Y2 .
+id:28 
+        data:no                 28;
+        data:title              "Analisis Kelayakan Sistem Absensi Berbasis Mobile Pada Program Studi S1 Teknik Informatika Unpad Dengan Menggunakan Metode Kelayakan TELOS";
+        data:author             "Yusuf Septiananda";
+        data:NPM                "140810130022";
+        data:hasGuide1 id:L9 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L2 ;
+        data:hasExaminer3 id:L1 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:29 data:hasYear id:Y6 .
-id:29 data:hasAngkatan id:Y2 .
+id:29 
+        data:no                 29;
+        data:title              "Implementasi Facial Expression Recognition menggunakan Metode Euclidean Distance sebagai Alat untuk Mengenali Kondisi Emosi Seseorang";
+        data:author             "Muhammad Fadly Rahman";
+        data:NPM                "140810130016";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L6 ;
+        data:hasExaminer2 id:L9 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:30 data:hasYear id:Y6 .
-id:30 data:hasAngkatan id:Y2 .
+id:30 
+        data:no                 30;
+        data:title              "Manajemen Traffic Jaringan Internet Berbasis Web Dengan Menggunakan Protokol SNMP (Studi Kasus di Lab. SIM Departemen Ilmu Komputer Universitas Padjadjaran)";
+        data:author             "Febrian Suhendra";
+        data:NPM                "140810130012";
+        data:hasGuide1 id:L3 ;
+        data:hasGuide2 id:L5 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L2 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:31 data:hasYear id:Y6 .
-id:31 data:hasAngkatan id:Y2 .
+id:31 
+        data:no                 31;
+        data:title              "ANALISIS SENTIMEN PADA TWITTER MENGGUNAKAN TEXT MINING DENGAN METODE NA";
+        data:author             "Hilga Dwiana Hardani";
+        data:NPM                "140810130023";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:32 data:hasYear id:Y6 .
-id:32 data:hasAngkatan id:Y2 .
+id:32 
+        data:no                 32;
+        data:title              "SISTEM INFORMASI DATA SIDANG TILANG PADA PENGADILAN NEGERI INDRAMAYU BERBASIS WEBSITE";
+        data:author             "Anggie Audina Ikhwanudin";
+        data:NPM                "140810130019";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:33 data:hasYear id:Y6 .
-id:33 data:hasAngkatan id:Y2 .
+id:33 
+        data:no                 33;
+        data:title              "Pengembangan Sistem Pendukung Keputusan Pemilihan Kelompok Tani Penerima Bantuan Pertanian Menggunakan Metode Analitycal Hierarchy Process Berbasis Web";
+        data:author             "Agung Kurniati";
+        data:NPM                "140810130027";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:34 data:hasYear id:Y6 .
-id:34 data:hasAngkatan id:Y2 .
+id:34 
+        data:no                 34;
+        data:title              "Penerapan K-Optimal Pada Metode Klasifikasi Menggunakan Algoritma K-Nearest Neighbor (KNN) Untuk Prediksi Masa Studi Mahasiswa Di Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Padjadjaran";
+        data:author             "Hilmi Wijaksana Wahyudi";
+        data:NPM                "140810130060";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L4 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:35 data:hasYear id:Y6 .
-id:35 data:hasAngkatan id:Y2 .
+id:35 
+        data:no                 35;
+        data:title              "Implementasi Algoritma Kriptografi RSA pada aplikasi chatting Berbasis Socket Programming dengan menggunakan bahasa C#";
+        data:author             "Yoko Suryadi";
+        data:NPM                "140810130043";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L9 ;
+         data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;       
+        .
 
-id:36 data:hasYear id:Y6 .
-id:36 data:hasAngkatan id:Y2 .
+id:36
+        data:no                 36;
+        data:title              "PENGENALAN WAJAH BERBASIS ANDROID MENGGUNAKAN METODE PRINCIPAL COMPONENT ANALYSIS";
+        data:author             "M Fathurrahman";
+        data:NPM                "140810130049";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L10 ;
+        data:hasExaminer2 id:L1 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:37 
+        data:no                 37;
+        data:title              "PENERAPAN METODE FUZZY ANALYTICAL HIERARCY PROCESS (F-AHP) PADA SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN PENGAWAS SEKOLAH TERBAIK DI KABUPATEN TANJUNG JABUNG TIMUR PROVINSI JAMBI";
+        data:author             "Rezky Pratomo";
+        data:NPM                "140810130013";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L4 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:37 data:hasYear id:Y6 .
-id:37 data:hasAngkatan id:Y2 .
+id:38 
+        data:no                 38;
+        data:title              "Pengujian Keamanan Wireless Access Point Dengan Protokol Keamanan WEP, WPA dan WPA2 Menggunakan Aircrack-ng Pada Sistem Operasi Kali Linux";
+        data:author             "Raynaldo Kristiado Sola Gratia";
+        data:NPM                "140810130051";
+        data:hasGuide1 id:L10 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L4 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:38 data:hasYear id:Y6 .
-id:38 data:hasAngkatan id:Y2 .
+id:39 
+        data:no                 39;
+        data:title              "Sistem Pendukung Keputusan Investasi Properti Berbasis Web Menggunakan Metode Analytical Hierarchy Process";
+        data:author             "Alvin Niza Aulia";
+        data:NPM                "140810130047";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L2 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:39 data:hasYear id:Y6 .
-id:39 data:hasAngkatan id:Y2 .
+id:40 
+        data:no                 40;
+        data:title              "Perbandingan Haar Cascade Classification Dan Lbp Cascade Classification Sebagai Hand Gesture Recognition Untuk Media Interaksi Dalam Aplikasi Game Virtual Reality";
+        data:author             "M Iqbal Pandailing W";
+        data:NPM                "140810130056";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:40 data:hasYear id:Y6 .
-id:40 data:hasAngkatan id:Y2 .
+id:41 
+        data:no                 41;
+        data:title              "Data Mining untuk Clustering Ethnoinformatika Penamaan Kampung di Kabupaten Bandung";
+        data:author             "Anne Devia";
+        data:NPM                "140810130003";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L4 ;
+        data:hasExaminer1 id:L9 ;
+        data:hasExaminer2 id:L5 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:41 data:hasYear id:Y6 .
-id:41 data:hasAngkatan id:Y2 .
+id:42 
+        data:no                 42;
+        data:title              "Naa.ve Bayes Classifier Untuk Kategori Berita Bahasa Indonesia Berbasis Web";
+        data:author             "Carina Sunny Budiono Putri";
+        data:NPM                "140810130001";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:42 data:hasYear id:Y6 .
-id:42 data:hasAngkatan id:Y2 .
+id:43 
+        data:no                 43;
+        data:title              "Penerapan Data Mining dengan Teknik Semi-supervised Clustering by Seeding untuk Mengelompokkan Posisi Pemain Sepakbola";
+        data:author             "Fath Imtiaz";
+        data:NPM                "140810120009";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L9 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
 
-id:43 data:hasYear id:Y6 .
-id:43 data:hasAngkatan id:Y1 .
+id:44 
+        data:no                 44;
+        data:title              "APLIKASI SISTEM PENDUKUNG KEPUTUSAN DALAM MENENTUKAN KENAIKAN PANGKAT DAN PROMOSI JABATAN STRUKTURAL DI KABUPATEN GARUT DENGAN MENGGUNAKAN METODE TOPSIS";
+        data:author             "Rizki Fitrah Mutaqin";
+        data:NPM                "140810130007";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L4 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:44 data:hasYear id:Y6 .
-id:44 data:hasAngkatan id:Y2 .
+id:45 
+        data:no                 45;
+        data:title              "Penerapan Data Mining dengan Metode Clustering untuk Sistem Informasi Ethnoinformatika Penamaan Dusun di Kabupaten Ciamis";
+        data:author             "Asep Sudrajat";
+        data:NPM                "140810130024";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L4 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:45 data:hasYear id:Y6 .
-id:45 data:hasAngkatan id:Y2 .
+id:46 
+        data:no                 46;
+        data:title              "Aplikasi Sistem Perpustakaan di SMA Darul Falah Cihampelas Berbasis Android";
+        data:author             "Henry Aulia Rahman";
+        data:NPM                "140810130005";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L9 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:46 data:hasYear id:Y6 .
-id:46 data:hasAngkatan id:Y2 .
+id:47
+        data:no                 47;
+        data:title              "PEMILIHAN INTERNET SERVICE PROVIDER TERBAIK PADA PT. PLN (PERSERO) APJ CIREBON DENGAN METODE FUZZY ANALYTICAL HIERARCHY PROCESS";
+        data:author             "Edwin Ginanjar Sonjaya";
+        data:NPM                "140810130014";
+        data:hasGuide1 id:L3 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L4 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:47 data:hasYear id:Y6 .
-id:47 data:hasAngkatan id:Y2 .
+id:48 
+        data:no                 48;
+        data:title              "Penerapan Data Mining untuk Clustering Etnoinformatika Penamaan Kampung di Kabupaten Tasikmalaya";
+        data:author             "Ai Siti Sobariah";
+        data:NPM                "140810130002";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
 
-id:48 data:hasYear id:Y6 .
-id:48 data:hasAngkatan id:Y2 .
+id:49 
+        data:no                 49;
+        data:title              "Implementasi Data Mining untuk Clustering Etnoinformatika Penamaan Kampung di Kabupaten Garut";
+        data:author             "Linda Angela Putri";
+        data:NPM                "140810130004";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L4 ;
+        data:hasExaminer1 id:L7 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;                
+        .
 
-id:49 data:hasYear id:Y6 .
-id:49 data:hasAngkatan id:Y2 .
+id:50 
+        data:no                 50;
+        data:title              "SISTEM PENDUKUNG KEPUTUSAN DALAM MENENTUKAN ATLET TAEKWONDO UNIVERSITAS PADJADJARAN UNTUK MENGIKUTI KEJUARAAN DENGAN METODE ANALITYCAL HIERARCHY PROCESS (AHP)";
+        data:author             "Tiara Rizki Maharani";
+        data:NPM                "140810130052";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;        
+        .
+id:51 
+        data:no                 51;
+        data:title              "PEMANFAATAN KARTU TANDA MAHASISWA UNTUK AUTENTIKASI DALAM PENGEMBANGAN SISTEM INFORMASI AKADEMIK UNIVERSITAS PADJADJARAN BERBASIS ANDROID";
+        data:author             "Nero Gading Laksmana";
+        data:NPM                "140810130032";
+        data:hasGuide1 id:L7 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:52 
+        data:no                 52;
+        data:title              "Program Rute Terpendek Unpad Jatinangor Menggunakan Algoritma Dijkstra";
+        data:author             "Muhammad Ilham Darmawidjaja";
+        data:NPM                "140810130030";
+        data:hasGuide1 id:L7 ;
+        data:hasGuide2 id:L4 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:53 
+        data:no                 53;
+        data:title              "Pengembangan Aplikasi Berbasis Chrome Extension untuk Mengakses Permainan Web Browser Kantai Collection dengan Menggunakan Virtual Private Network";
+        data:author             "Rifky Fachry M";
+        data:NPM                "140810130061";
+        data:hasGuide1 id:L9 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L10 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:54 
+        data:no                 54;
+        data:title              "Pemanfaatan Kartu Tanda Penduduk Elektronik Sebagai Sistem Informasi Absensi di Program Studi Teknik Informatika Fakultas Mipa Universitas Padjadjaran";
+        data:author             "Ivan Alexander Yunadi";
+        data:NPM                "140810120010";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L10 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
+id:55 
+        data:no                 55;
+        data:title              "Penerapan Data Mining Algoritma K-Means Clustering dalam Segmentasi Wilayah Nasabah Permohonan Kredit untuk Membantu Strategi Pemasaran PT.BPR Ganto Nagari 1954";
+        data:author             "Selano Putra";
+        data:NPM                "140810130018";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L5 ;
+        data:hasExaminer1 id:L3 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:56 
+        data:no                 56;
+        data:title              "SISTEM INFORMASI TRACER STUDY BERBASIS WEB MENGGUNAKAN FRAMEWORK LARAVEL";
+        data:author             "Isa Abdul Muhyi";
+        data:NPM                "140810120016";
+        data:hasGuide1 id:L6 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
+id:57 
+        data:no                 57;
+        data:title              "APLIKASI SISTEM PENDUKUNG KEPUTUSAN UNTUK PEMBELIAN SMARTPHONE MENGGUNAKAN METODE FUZZY ANALYTIC HIERARCHY PROCESS BERBASIS WEB";
+        data:author             "Aldi Maulana";
+        data:NPM                "140810130059";
+        data:hasGuide1 id:L9 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:58 
+        data:no                 58;
+        data:title              "Sistem Monitoring Aset Berbasis Web Pada Departemen IT Santosa Hospital Bandung Central";
+        data:author             "Akmaluddin Fadhilah";
+        data:NPM                "140810130055";
+        data:hasGuide1 id:L10 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:59 
+        data:no                 59;
+        data:title              "ANALISA DAN PERBANDINGAN KEAMANAN FILE MENGGUNAKAN METODE ENKRIPSI AES DAN RSA";
+        data:author             "Irdan Anshari";
+        data:NPM                "140810130040";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:60 
+        data:no                 60;
+        data:title              "Analisis Aplikasi Peringkasan Teks Otomatis Menggunakan Term Frequency Inverse Document Frequency (TF-IDF)";
+        data:author             "Fadhli Aufar Syahmi";
+        data:NPM                "140810130029";
+        data:hasGuide1 id:L7 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L3 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L2 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:61 
+        data:no                 61;
+        data:title              "APLIKASI SISTEM PENDUKUNG KEPUTUSAN PRIORITAS PEMBANGUNAN PELAYANAN KESEHATAN DI INDONESIA MENGGUNAKAN METODE FUZZY ANALYTICAL HIERARCHY PROCESS (FAHP)";
+        data:author             "Mauludy Nugrahani";
+        data:NPM                "140810130010";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L5 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:62 
+        data:no                 62;
+        data:title              "Pengembangan Aplikasi Web dan Aplikasi Mobile Sistem Manajemen Perpustakan dan Perpustakaan Digital dengan model pengembangan Aplikasi Extreme Programing";
+        data:author             "O. Ginanjar";
+        data:NPM                "140810120011";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L4 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y1 ;
+        .
+id:63 
+        data:no                 63;
+        data:title              "Sistem Informasi Mobile Berbasis Spatial-Temporal Database dan Web Service Sebagai Pendukung Location-Based Service Untuk Pemantauan Lokasi Objek";
+        data:author             "Ardhi Rizki Harahap";
+        data:NPM                "140810130042";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L6 ;
+        data:hasExaminer2 id:L9 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:64 
+        data:no                 64;
+        data:title              "SIMULASI EKSPLORASI HUTAN PADA MALAM HARI BERBASIS VIRTUAL REALITY MENGGUNAKAN GAME ENGINE UNITY 3D";
+        data:author             "Firdaus Perdana Yusuf";
+        data:NPM                "140810130038";
+        data:hasGuide1 id:L6 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:65 
+        data:no                 65;
+        data:title              "Implementasi Metode Fuzzy Analytical Hierarchy Process Dalam Aplikasi Sistem Pendukung Keputusan Kelayakan Penerimaan Kredit Koperasi Keluarga Besar Dinas Pendapatan (KKBD) Provinsi Jawa Barat";
+        data:author             "Fieny Mughnisari S";
+        data:NPM                "140810130048";
+        data:hasGuide1 id:L11 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:66 
+        data:no                 66;
+        data:title              "ANALISIS PERFORMA ALGORITMA KRIPTOGRAFI AES UNTUK CITRA DIGITAL PADA BERBAGAI PERANGKAT ANDROID";
+        data:author             "Dion Alamsah";
+        data:NPM                "140810130034";
+        data:hasGuide1 id:L9 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:67 
+        data:no                 67;
+        data:title              "IMPLEMENTASI SISTEM PEMUNGUTAN SUARA ELEKTRONIK DENGAN MENGGUNAKAN TEKNOLOGI NFC (NEAR FIELD COMMUNICATION) PADA PLATFORM ANDROID (STUDI KASUS PEMILIHAN KETUA HIMATIF FMIPA UNPAD)";
+        data:author             "Muhammad Adamul Khair";
+        data:NPM                "140810130025";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L6 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y6 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:68 
+        data:no                 68;
+        data:title              "Perbandingan Sostem Pengambilan Keputusan Pemilihan Distributor Pada Perusahaan Menggunakan Metode AHP dan Metode SMART";
+        data:author             "Farrah Sania Abdilla";
+        data:NPM                "140810130009";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:69 
+        data:no                 69;
+        data:title              "APLIKASI PENCARIAN FILE DUPLIKASI MENGGUNAKAN METODE MESSAGE DIGEST 5 HASH";
+        data:author             "Ahmad Dinan Kurnia";
+        data:NPM                "140810130054";
+        data:hasGuide1 id:L10 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:70 
+        data:no                 70;
+        data:title              "Aplikasi Formulasi Kolam Ikan Tertutup dengan Metode Regresi";
+        data:author             "Eben Ezer Naibaho";
+        data:NPM                "140810130031";
+        data:hasGuide1 id:L7 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L4 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:71 
+        data:no                 71;
+        data:title              "Implementasi Aplikasi Digital Signature Menggunakan Fungsi Hash Algoritma SHA-256 (Secure Hash Algorithm) Dan RSA (Rivest-Shamir-Adleman)";
+        data:author             "Mochamad Azmi Fauzan";
+        data:NPM                "140810130057";
+        data:hasGuide1 id:L3 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:72 
+        data:no                 72;
+        data:title              "Sistem pakar untuk mendiagnosa penyakit vertigo berbasis web";
+        data:author             "Masagus M. Afif Azhari";
+        data:NPM                "140810130017";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L9 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:73 
+        data:no                 73;
+        data:title              "Rancang Bangun Sistem Pakar Untuk Menentukan Gaya Belajar Seseorang Menggunakan Metode Forward Chaining Berbasis Web";
+        data:author             "Ashila Lunafisa";
+        data:NPM                "140810130058";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L6 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:74 
+        data:no                 74;
+        data:title              "Implementasi Client Server pada Game Multiplayer Menggunakan Steam Online Subsytem dan WLAN";
+        data:author             "Dzikra Dzakiyyah";
+        data:NPM                "140810140065";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L2 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:75 
+        data:no                 75;
+        data:title              "Analisis dan Perancangan Aplikasi Manajemen Traffic Jaringan Internet dengan Standar IEEE 802.11 Berbasis Smartphone Android Menggunakan Protokol Monitoring SNMP (Studi Kasus : Lembaga Kursus Bahasa Inggris New Concept English Education Centre)";
+        data:author             "Chafidz Maulana";
+        data:NPM                "140810140010";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:76 
+        data:no                 76;
+        data:title              "Perbandingan Algoritma Djikstra dengan Algoritma Floyd-Marshall pada Kasus Jalur Kendaraan di Unpad Jatinangor";
+        data:author             "Muhammad Azhari Marpaung";
+        data:NPM                "140810140002";
+        data:hasGuide1 id:L3 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:77 
+        data:no                 77;
+        data:title              "INTENT RECOGNITION BAHASA INDONESIA PADA BOT PORTAL PRAKTIKUM MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK";
+        data:author             "Risal Falah";
+        data:NPM                "140810140016";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L4 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:78 
+        data:no                 78;
+        data:title              "PENGENALAN ANGKA PADA AKSARA SUNDA MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK ";
+        data:author             "Hidayaturrahman";
+        data:NPM                "140810140050";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L1 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:79 
+        data:no                 79;
+        data:title              "Pengembangan User Interface dan User Experience Portal Laboratorium Menggunakan Metode Goal-Directed Design (Studi Kasus Laboratorium Teknik Informatika Unpad)";
+        data:author             "Rifki Muhammad";
+        data:NPM                "140810140020";
+        data:hasGuide1 id:L10 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L4 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:80 
+        data:no                 80;
+        data:title              "Rancang Bangun Aplikasi Permainan Edukasi Untuk Anak-Anak Berbasis Desktop";
+        data:author             "Gustara Sapto Ajie";
+        data:NPM                "140810140022";
+        data:hasGuide1 id:L3 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:81 
+        data:no                 81;
+        data:title              "SISTEM INFORMASI LOST AND FOUND CENTER JATINANGOR MENGGUNAKAN COMMUNITY-ORIENTED SYSTEM BERBASIS WEB";
+        data:author             "Raka Karim Ramaputra";
+        data:NPM                "140810140057";
+        data:hasGuide1 id:L11 ;
+        data:hasGuide2 id:L5 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:82 
+        data:no                 82;
+        data:title              "Rancang Bangun Sistem Informasi Aktivitas Praktikum di Laboratorium Teknik Informatika";
+        data:author             "Agung Kurniawan";
+        data:NPM                "140810140056";
+        data:hasGuide1 id:L6 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L5 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:83 
+        data:no                 83;
+        data:title              "Analisis Performa Arsitektur Monolith dan Microservices pada Portal Laboratorium Menggunakan Amazon Web Service ";
+        data:author             "Asep Nur Muhammad";
+        data:NPM                "140810140070";
+        data:hasGuide1 id:L9 ;
+        data:hasGuide2 id:L4 ;
+        data:hasExaminer1 id:L6 ;
+        data:hasExaminer2 id:L11 ;
+        data:hasExaminer3 id:L5 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:84 
+        data:no                 84;
+        data:title              "Rancang Bangun Sistem Dashboard Perfomance PT Pertamina EP Asset 1 Field Jambi Untuk Monitoring Oil dan Gas";
+        data:author             "Yunilucki Siswantari";
+        data:NPM                "140810140013";
+        data:hasGuide1 id:L11 ;
+        data:hasGuide2 id:L5 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L4 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:85 
+        data:no                 85;
+        data:title              "RANCANG BANGUN SISTEM PAKAR DENGAN METODE FORWARD CHAINING UNTUK MENDIAGNOSIS PENYAKIT DEMAM PADA BALITA BERBASIS WEB";
+        data:author             "Ghaitsa Ryherfa";
+        data:NPM                "140810140014";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:86 
+        data:no                 86;
+        data:title              "Perbandingan Usabilitas Aplikasi Game-Based Learning Berbasis Voice User Interface Dengan Aplikasi Game-Based Learning Berbasis Graphical User Interface";
+        data:author             "Mohamad Dean Aji Wibowo";
+        data:NPM                "140810140027";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L2 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:87 
+        data:no                 87;
+        data:title              "ANALISIS PERBANDINGAN ALGORITMA DIJKSTRA DAN A* DALAM STRATEGI PENYELESAIAN PERMAINAN LABIRIN";
+        data:author             "Rio Nur Ardiansyah";
+        data:NPM                "140810140024";
+        data:hasGuide1 id:L6 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L3 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:88 
+        data:no                 88;
+        data:title              "Aplikasi Monitoring Jaringan Komputer Berbasis Web Menggunakan Nagios (Studi Kasus : Indekos Pondok Malaka Indah)";
+        data:author             "Ahmad Rizki";
+        data:NPM                "140810140067";
+        data:hasGuide1 id:L7 ;
+        data:hasGuide2 id:L3 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L5 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:89 
+        data:no                 89;
+        data:title              "Analisis dan Perancangan Jaringan Komputer Di Gedung D PPBS Unpad untuk Optimasi Nilai Quality of Service";
+        data:author             "Faizal Imam";
+        data:NPM                "140810140006";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L6 ;
+        data:hasExaminer2 id:L9 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:90 
+        data:no                 90;
+        data:title              "NETWORK MONITORING SYSTEM PADA JARINGAN LAN (LOCAL AREA NETWORK) DENGAN NOTIFIKASI PADA MEDIA SOSIAL WHATSAPP";
+        data:author             "Rizal Anandi";
+        data:NPM                "140810130026";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y2 ;
+        .
+id:91 
+        data:no                 91;
+        data:title              "ANALISIS ALGORITMA GERAK TRIPOD RIPLE WAVE GAIT TERHADAP DAYA KECEPATAN DAN STABILITAS GERAK PADA HEXAPOD 3DOF";
+        data:author             "Muhammad Ikhwan Yoza";
+        data:NPM                "140810140036";
+        data:hasGuide1 id:L5 ;
+        data:hasGuide2 id:L7 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:92 
+        data:no                 92;
+        data:title              "PENGENALAN CITRA DIGITAL DENGAN MENGGUNAKAN PENENTUAN KEMIRIPAN BERBASIS GRAPH MELALUI METODE GRAPH MATCHING";
+        data:author             "Muhamad Wijaya Adisaputra";
+        data:NPM                "140810140034";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L6 ;
+        data:hasExaminer3 id:L7 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:93 
+        data:no                 93;
+        data:title              "PENGEMBANGAN SISTEM INFORMASI MANAJEMEN ASET BERBASIS WEB STUDI KASUS PT. X DI KOTA BANDUNG";
+        data:author             "Satria Megananda Purnama";
+        data:NPM                "140810140059";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L6 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L9 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:94 
+        data:no                 94;
+        data:title              "PENGENALAN AKSARA SUNDA MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK – DLSTM";
+        data:author             "Yemima Damayanti S";
+        data:NPM                "140810140046";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L1 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:95 
+        data:no                 95;
+        data:title              "Pengenalan Karakter Tulisan Tangan Sunda Kuno Pada Naskah Lontar Dengan Ekstraksi Fitur Menggunakan Metode Zoning dan Metode Klasifikasi K Nearest Neighbor";
+        data:author             "Fadhliyah Rahmah Nat";
+        data:NPM                "140810140048";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L5 ;
+        data:hasExaminer2 id:L1 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:96 
+        data:no                 96;
+        data:title              "Aplikasi Expert System Diagnosa Diabetes Menggunakan Metode Depth First Search (DFS) Berbasis Mobile";
+        data:author             "Regina Dewi Sofyana";
+        data:NPM                "140810140025";
+        data:hasGuide1 id:L2 ;
+        data:hasGuide2 id:L4 ;
+        data:hasExaminer1 id:L6 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L11 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:97 
+        data:no                 97;
+        data:title              "Rancang Bangun Aplikasi Kinerja PLN dengan Metode Database Life Cycle";
+        data:author             "Nabila Putri Suriani";
+        data:NPM                "140810140026";
+        data:hasGuide1 id:L4 ;
+        data:hasGuide2 id:L11 ;
+        data:hasExaminer1 id:L2 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L6 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:98 
+        data:no                 98;
+        data:title              "Deteksi Perangkat untuk Management Jaringan Komputer Melalui Protokol IPv4 Menggunakan Algoritma Brute Force dan Parallel Programming";
+        data:author             "Eka Qolbu M S";
+        data:NPM                "140810140062";
+        data:hasGuide1 id:L6 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L10 ;
+        data:hasExaminer3 id:L2 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y3 ;
+        .
+id:99 
+        data:no                 99;
+        data:title              "SENTIMENT ANALYSIS OPINI MASYARAKAT TERHADAP KOTA BANDUNG MELALUI JEJARING SOSIAL TWITTER DENGAN MENGGUNAKAN NAIVE BAYES CLASSIFIER";
+        data:author             "Imam Jabar Shidiq R";
+        data:NPM                "140810120002";
+        data:hasGuide1 id:L1 ;
+        data:hasGuide2 id:L9 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L7 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y1 ;
+        .
+id:100 
+        data:no                 100;
+        data:title              "SISTEM INFORMASI MANAJEMEN KEPEGAWAIAN BERBASIS WEBSITE PADA KANTOR INSPEKTORAL JENDRAL TNI CILANGKAP JAKARTA TIMUR";
+        data:author             "Ega Ardiwira Pangestu";
+        data:NPM                "140810130033";
+        data:hasGuide1 id:L7 ;
+        data:hasGuide2 id:L10 ;
+        data:hasExaminer1 id:L4 ;
+        data:hasExaminer2 id:L3 ;
+        data:hasExaminer3 id:L10 ;
+        data:hasYear id:Y7 ;
+        data:hasAngkatan id:Y2 ;
+        .
 
-id:50 data:hasYear id:Y6 .
-id:50 data:hasAngkatan id:Y2 .
+

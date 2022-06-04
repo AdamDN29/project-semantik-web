@@ -134,7 +134,7 @@ PREFIX data: <https://skripsiKu.com/data#>
       }
       ORDER BY DESC(?no)
 
-# getData2
+# getDataAdvanced
 
 PREFIX data: <https://skripsiKu.com/data#>
       PREFIX id: <https://skripsiKu.com/skripsi#>
