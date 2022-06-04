@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { scroller } from "react-scroll";
+import {BASE_URL, headers, getDataAvancedQuery} from "../Query/Query";
 import axios from "axios";
 import qs from "qs";
 
@@ -15,88 +16,27 @@ const scrollToSection = (flag) => {
 function Advanced() {
 
   const initialState = {
-    codes: [],
+    dataSkripsi: [], // // Save the Result
+    // Save the Keyword
     title: "",
     author: "",
-    NPM: "",
     year: "",
     angkatan: "",
     guide: "",
-    guide1: "",
-    guide2: "",
     examiner: "",
-    examiner1: "",
-    examiner2: "",
-    examiner3: "",
   }
 
   const [value, setValue] = useState(initialState);
+  const clearState = () => {
+    setValue({ ...initialState });
+  };
 
   const [searching, setSearching] = useState(false);
 
   const getData = async () => {
-    const BASE_URL = "http://localhost:3030/dataSkripsi/query";
 
-    const headers = {
-      Accept: "application/sparql-results+json,*/*;q=0.9",
-      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-    };
-
-    const queryData = {
-      query: `PREFIX data: <https://skripsiKu.com/data#>
-      PREFIX id: <https://skripsiKu.com/skripsi#>
-      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-      SELECT ?no ?title ?author ?NPM ?year ?angkatan ?guide1 ?guide2 ?examiner1 ?examiner2 ?examiner3
-      WHERE
-      {
-        ?id data:no ?no ;
-            data:title ?title ;
-            data:author ?author ;
-            data:NPM ?NPM ;
-            data:hasYear ?nameYear ;
-            data:hasAngkatan ?nameAngkatan ;
-            data:hasGuide1 ?nameGuide1 ;
-            data:hasGuide2 ?nameGuide2 ;
-            data:hasExaminer1 ?nameExaminer1 ;
-            data:hasExaminer2 ?nameExaminer2 ;
-            data:hasExaminer3 ?nameExaminer3 .
-            
-            ?nameYear data:year ?year .
-            ?nameAngkatan data:year ?angkatan .
-            ?nameGuide1 data:lecturer ?guide1 .
-            ?nameGuide2 data:lecturer ?guide2 .
-            ?nameExaminer1 data:lecturer ?examiner1 .
-            ?nameExaminer2 data:lecturer ?examiner2 .
-            ?nameExaminer3 data:lecturer ?examiner3 .
-            
-            FILTER contains(lcase(str(?title)), lcase(str("${
-              value.title ? value.title : ""
-            }")))
-            FILTER contains(lcase(str(?author)), lcase(str("${
-              value.author ? value.author : ""
-            }")))
-            FILTER contains(lcase(str(?NPM)), lcase(str("${
-              value.NPM ? value.NPM : ""
-            }")))
-            FILTER contains(lcase(str(?year)), lcase(str("${
-              value.year ? value.year : ""
-            }")))
-            FILTER contains(lcase(str(?angkatan)), lcase(str("${
-              value.angkatan ? value.angkatan : ""
-            }")))
-            FILTER (
-              contains(lcase(str(?guide1)), lcase(str("${value.guide ? value.guide : ""}"))) ||
-              contains(lcase(str(?guide2)), lcase(str("${value.guide ? value.guide : ""}")))
-            )
-           
-            FILTER (
-              contains(lcase(str(?examiner1)), lcase(str("${value.examiner ? value.examiner : ""}"))) ||
-              contains(lcase(str(?examiner2)), lcase(str("${value.examiner ? value.examiner : ""}"))) ||
-              contains(lcase(str(?examiner3)), lcase(str("${value.examiner ? value.examiner : ""}")))
-            )      
-      }
-      ORDER BY ASC (?no)`,
-    };
+    // Query to get Data
+    const queryData = getDataAvancedQuery(value);
 
     setSearching(true);
 
@@ -112,33 +52,33 @@ function Advanced() {
       console.log(data);
 
       // Convert Data
-      const formatted_data = data.results.bindings.map((code, index) =>
-        formatter(code, index)
+      const formatted_data = data.results.bindings.map((temp, index) =>
+        formatter(temp, index)
       );
       console.log(formatted_data);
 
       setValue({
         ...value,
-        codes: formatted_data,
+        dataSkripsi: formatted_data,
       });
     } catch (err) {
       console.error(err);
     }
   };
 
-  const formatter = (codes, index) => {
+  const formatter = (temp, index) => {
     return {
       id: index,
-      title: codes.title.value,
-      author: codes.author.value,
-      NPM: codes.NPM.value,
-      year: codes.year.value,
-      angkatan: codes.angkatan.value,
-      guide1: codes.guide1.value,
-      guide2: codes.guide2.value,
-      examiner1: codes.examiner1.value,
-      examiner2: codes.examiner2.value,
-      examiner3: codes.examiner3.value,
+      title: temp.title.value,
+      author: temp.author.value,
+      NPM: temp.NPM.value,
+      year: temp.year.value,
+      angkatan: temp.angkatan.value,
+      guide1: temp.guide1.value,
+      guide2: temp.guide2.value,
+      examiner1: temp.examiner1.value,
+      examiner2: temp.examiner2.value,
+      examiner3: temp.examiner3.value,
     };
   };
 
@@ -184,35 +124,35 @@ function Advanced() {
     });
   };
 
-  const content = value.codes.map((code) => (
-    <div key={code.id} className="codes_list_container text-justify">
+  const content = value.dataSkripsi.map((skripsi) => (
+    <div key={skripsi.id} className="codes_list_container text-justify">
       <ul>
         <li >
           <div className="d-flex flex-row align-items-start justify-content-start"></div>
           <div className="code_info"></div>
           <div className="code_title">
-            {code.title}
+            {skripsi.title}
             <br />
           </div>
           <div className="code_language">
-            Author : {code.author}
+            Author : {skripsi.author}
             <br />
           </div>
-          NPM       : {code.NPM}
+          NPM       : {skripsi.NPM}
           <br />
-          Tahun : {code.year}
+          Tahun : {skripsi.year}
           <br />
-          Angkatan : {code.angkatan}
+          Angkatan : {skripsi.angkatan}
           <br />
-          Pembimbing 1 : {code.guide1}
+          Pembimbing 1 : {skripsi.guide1}
           <br />
-          Pembimbing 2 : {code.guide2}
+          Pembimbing 2 : {skripsi.guide2}
           <br />
-          Penguji 1 : {code.examiner1}
+          Penguji 1 : {skripsi.examiner1}
           <br />
-          Penguji 2 : {code.examiner2}
+          Penguji 2 : {skripsi.examiner2}
           <br />
-          Penguji 3 : {code.examiner3}
+          Penguji 3 : {skripsi.examiner3}
           <br />
           <hr className="line-style"></hr>
           <div className="margin-style"></div>
@@ -245,7 +185,6 @@ function Advanced() {
           <div className="row">
             <div className="col">
               <div className="header_content d-flex flex-row align-items-center justify-content-center">
-                {/* Logo */}
                 <div className="logo mr-auto">
                   <div className="d-flex flex-row align-items-end justify-content-start">
                     <span className="logo_text logo_text_style">
@@ -266,12 +205,11 @@ function Advanced() {
           </div>
         </div>
       </header>
+
       {/* Home */}
       <div className="home" id="home">
-        {/* Home Slider */}
         <div className="home_slider_container">
           <div className="owl-carousel owl-theme home_slider">
-            {/* Slide */}
             <div className="slide">
               <div
                 className="background_image"
@@ -422,6 +360,14 @@ function Advanced() {
                                   >
                                     <span>Search</span>
                                   </button>
+                               
+                                  <button
+                                    type="reset"
+                                    className="custom_button2 code_form_button button"
+                                    onClick={clearState}
+                                  >
+                                    <span>Reset</span>
+                                  </button>
                                 </div>
                               </div>
                             </div>
@@ -449,7 +395,6 @@ function Advanced() {
         <div className="container">
           <div className="row row-lg-eq-height">
   
-            {/* Codes Content */}
             <div className="content_container col-lg-8 order-lg-2 order-1">
               <div className="codes_content">
                 <div className="section_title">

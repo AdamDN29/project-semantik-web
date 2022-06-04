@@ -4,7 +4,7 @@
 
 id:1 
         data:no                 1;
-        data:title              "SISTEM INFORMASI PERSEDIAAN BARANG BERBASIS WEBDAN SISTEM MONITORING BERBASIS MOBILEPADA PERUSAHAAN DISTRIBUSI";
+        data:title              "SISTEM INFORMASI PERSEDIAAN BARANG BERBASIS WEB DAN SISTEM MONITORING BERBASIS MOBILE PADA PERUSAHAAN DISTRIBUSI";
         data:author             "Jordy Saragih";
         data:NPM                "140810120001";
         .

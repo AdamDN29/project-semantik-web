@@ -1104,6 +1104,13 @@ section {
 
 .custom_button {
 	top: 30px;
+	left: 48px;
+}
+
+.custom_button2 {
+	top: 30px;
+	left: 180px;
+	width:100px;
 }
 
 .code_form_button span {
